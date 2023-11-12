@@ -1,7 +1,3 @@
-def Datadict (Data):
-    y, m, d = Data.split(' ')
-    data_dict= {'Year':y, 'month':m, 'day':d}
-    return data_dict
-data = '2001 9 11'
-dd=Datadict(data)
-print(dd)
+import numpy as np
+c = np.array([1, 2, 3], dtype='float32')
+print(c)
