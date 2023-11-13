@@ -1,3 +1,4 @@
 # Rep
 Список зависимотей в r.txt
-Демонстрация в main.py
+Демонстрация numpy в main.py
+Демонстрация matplotlib в task1.py
