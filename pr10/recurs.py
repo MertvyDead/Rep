@@ -17,3 +17,4 @@ def find_max_iterative(arr):
         if arr[i] > max_element:
             max_element = arr[i]
     return max_element
+print(find_max_iterative(a))
